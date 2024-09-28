@@ -1,0 +1,6 @@
+beautifulsoup
+os
+requests
+urllib
+selenium
+sys
